@@ -1,4 +1,4 @@
-const words = [
+[
   { "word": "ليل", "reverse": "نهار" },
   { "word": "يابس", "reverse": "رطب" },
   { "word": "مؤمن", "reverse": "كافر" },
@@ -91,4 +91,26 @@ const words = [
   { "word": "البرق", "reverse": "الرعد" },
   { "word": "الضباب", "reverse": "الصحو" },
   { "word": "الغبار", "reverse": "النقاء" }
-];
+];  { "word": "الشمال", "reverse": "الجنوب" },
+  { "word": "الحلاوة", "reverse": "المرارة" },
+  { "word": "النوم", "reverse": "اليقظة" },
+  { "word": "الصحو", "reverse": "السكر" },
+  { "word": "الحضارة", "reverse": "البداوة" },
+  { "word": "المدينة", "reverse": "القرية" },
+  { "word": "النفط", "reverse": "الماء" },
+  { "word": "النار", "reverse": "الثلج" },
+  { "word": "الذهب", "reverse": "التراب" },
+  { "word": "الفضة", "reverse": "الحديد" },
+  { "word": "القمر", "reverse": "الشمس" },
+  { "word": "الكوكب", "reverse": "النجم" },
+  { "word": "المحيط", "reverse": "اليابسة" },
+  { "word": "النهر", "reverse": "البحر" },
+  { "word": "الجبل", "reverse": "السهل" },
+  { "word": "الصخر", "reverse": "الرمال" },
+  { "word": "المطر", "reverse": "الجفاف" },
+  { "word": "الريح", "reverse": "السكون" },
+  { "word": "العاصفة", "reverse": "الهدوء" },
+  { "word": "البرق", "reverse": "الرعد" },
+  { "word": "الضباب", "reverse": "الصحو" },
+  { "word": "الغبار", "reverse": "النقاء" }
+]

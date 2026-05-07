@@ -1,15 +1,15 @@
 [
     {
         "img": "https://flagpedia.net/data/flags/w702/af.png",
-        "name": "أفغانستان"
+        "name": "افغانستان"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/ax.png",
-        "name": "جزر آلاند"
+        "name": "جزر الاند"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/al.png",
-        "name": "ألبانيا"
+        "name": "البانيا"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/dz.png",
@@ -17,43 +17,43 @@
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/as.png",
-        "name": "ساموا الأمريكية"
+        "name": "جزر ساموا"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/ad.png",
-        "name": "أندورا"
+        "name": "اندورا"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/ao.png",
-        "name": "أنغولا"
+        "name": "انغولا"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/ai.png",
-        "name": "أنغيلا"
+        "name": "انغيلا"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/aq.png",
-        "name": "القارة القطبية الجنوبية"
+        "name": "انتركاتيكا"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/ag.png",
-        "name": "أنتيغوا وبربودا"
+        "name": "انتيغوا وبربودا"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/ar.png",
-        "name": "الأرجنتين"
+        "name": "الارجنتين"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/am.png",
-        "name": "أرمينيا"
+        "name": "ارمينيا"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/aw.png",
-        "name": "أروبا"
+        "name": "اروبا"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/au.png",
-        "name": "أستراليا"
+        "name": "استراليا"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/at.png",
@@ -61,7 +61,7 @@
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/az.png",
-        "name": "أذربيجان"
+        "name": "اذربيجان"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/bs.png",
@@ -117,7 +117,7 @@
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/bv.png",
-        "name": "جزيرة بوفيه"
+        "name": "النرويج"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/br.png",
@@ -161,7 +161,7 @@
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/bq.png",
-        "name": "هولندا الكاريبية"
+        "name": "جزر بونير"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/ky.png",
@@ -169,7 +169,7 @@
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/cf.png",
-        "name": "جمهورية افريقيا الوسطى"
+        "name": " افريقيا الوسطى"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/td.png",
@@ -193,19 +193,19 @@
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/co.png",
-        "name": "Colombia"
-    },
-    {
-        "img": "https://flagpedia.net/data/flags/w702/km.png",
         "name": "كولومبيا"
     },
     {
+        "img": "https://flagpedia.net/data/flags/w702/km.png",
+        "name": "جزر القمر"
+    },
+    {
         "img": "https://flagpedia.net/data/flags/w702/cg.png",
-        "name": "جمهورية الكونغو"
+        "name": " الكونغو"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/cd.png",
-        "name": "جمهورية الكونغو الديمقراطية"
+        "name": " الكونغو الديمقراطية"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/ck.png",
@@ -213,7 +213,7 @@
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/cr.png",
-        "name": "جزر كوك"
+        "name": "كوستاريكا"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/ci.png",
@@ -253,7 +253,7 @@
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/do.png",
-        "name": "جمهورية الدومينيكان"
+        "name": " الدومينيكان"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/ec.png",
@@ -269,23 +269,23 @@
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/gb-eng.png",
-        "name": "إنكلترا"
+        "name": "انجلترا"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/gq.png",
-        "name": "Equatorial Guinea"
+        "name": "غانا الاستوائية"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/er.png",
-        "name": "إريتريا"
+        "name": "ارتريا"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/ee.png",
-        "name": "إستونيا"
+        "name": "استونيا"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/sz.png",
-        "name": "إيسواتيني"
+        "name": "اسواتيني"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/et.png",
@@ -297,11 +297,11 @@
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/fo.png",
-        "name": "جزر فاروس"
+        "name": "جزر فارو"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/fj.png",
-        "name": "فيجي"
+        "name": "جزر فيجي"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/fi.png",
@@ -313,11 +313,11 @@
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/gf.png",
-        "name": "غيانا الفرنسية"
+        "name": "جزر غويانا "
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/pf.png",
-        "name": "بولينيزيا الفرنسية"
+        "name": "جزر بولينيزيا "
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/tf.png",
@@ -337,7 +337,7 @@
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/de.png",
-        "name": "ألمانيا"
+        "name": "المانيا"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/gh.png",
@@ -353,19 +353,19 @@
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/gl.png",
-        "name": "الأرض الخضراء"
+        "name": "جرينلاند"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/gd.png",
-        "name": "غرينادا"
+        "name": "جرينلاند"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/gp.png",
-        "name": "جوادلوب"
+        "name": " جزر جوادلوب"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/gu.png",
-        "name": "غوام"
+        "name": " جزر غوام "
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/gt.png",
@@ -373,7 +373,7 @@
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/gg.png",
-        "name": "غيرنسي"
+        "name": " جزر غيرنزي"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/gn.png",
@@ -405,11 +405,11 @@
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/hu.png",
-        "name": "هنغاريا"
+        "name": "المجر"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/is.png",
-        "name": "أيسلندا"
+        "name": "ايسلندا"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/in.png",
@@ -417,11 +417,11 @@
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/id.png",
-        "name": "إندونيسيا"
+        "name": "اندونيسيا"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/ir.png",
-        "name": "إيران"
+        "name": "ايران"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/iq.png",
@@ -433,15 +433,15 @@
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/im.png",
-        "name": "جزيرة آيل أوف مان"
+        "name": جزر مان"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/il.png",
-        "name": "ورق الحمام"
+        "name": " اخرائيل"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/it.png",
-        "name": "إيطاليا"
+        "name": "ايطاليا"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/jm.png",
@@ -453,11 +453,11 @@
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/je.png",
-        "name": "جيرسي"
+        "name": "جزر جيرزي"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/jo.png",
-        "name": "الأردن"
+        "name": "الاردن"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/kz.png",
@@ -469,7 +469,7 @@
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/ki.png",
-        "name": "كيريباتي"
+        "name": "جزر كيريباتي"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/kp.png",
@@ -497,7 +497,7 @@
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/lv.png",
-        "name": "لاتيفيا"
+        "name": "لاتفيا"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/lb.png",
@@ -586,10 +586,7 @@
     {
         "img": "https://flagpedia.net/data/flags/w702/md.png",
         "name": "مولدوفا"
-    },
-    {
-        "img": "https://telegra.ph/file/567c8c525fd6da20f3baf.jpg",
-        "name": "موناكو"
+    "
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/mn.png",
@@ -633,7 +630,7 @@
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/nc.png",
-        "name": "كاليدونيا الجديدة"
+        "name": "كاليدونيا "
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/nz.png",
@@ -669,7 +666,7 @@
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/mp.png",
-        "name": "جزر مريانا الشمالية"
+        "name": "جزر مريانا "
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/no.png",
@@ -677,7 +674,7 @@
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/om.png",
-        "name": "سلطنة عمان"
+        "name": " عمان"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/pk.png",
@@ -697,7 +694,7 @@
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/pg.png",
-        "name": "بابوا غينيا الجديدة"
+        "name": "بابوا غينيا "
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/py.png",
@@ -709,7 +706,7 @@
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/ph.png",
-        "name": "فيلبيني"
+        "name": "الفلبين"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/pn.png",
@@ -757,14 +754,11 @@
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/kn.png",
-        "name": "سانت كيتس ونيفيس"
+        "name": "سانت كيتس "
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/lc.png",
         "name": "سانت لوسيا"
     },
     {
-        "img": "https://flagpedia.net/data/flags/w702/mf.png",
-        "name": "سانت مارتن"
-    }
 ]

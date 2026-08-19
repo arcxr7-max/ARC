@@ -1,0 +1,1090 @@
+[
+  {
+    "title": "Attack on Titan",
+    "mood": ["مظلم", "قاتم", "أكشن", "حزين", "نفسي"],
+    "genre": "أكشن، مظلم، دراما، فانتازيا",
+    "episodes": "جزء 1-4",
+    "reason": "قصة عميقة، شخصيات مأساوية، نهاية مؤثرة.",
+    "trailer": "https://www.youtube.com/watch?v=MbV3OjCQ4OA"
+  },
+  {
+    "title": "Demon Slayer",
+    "mood": ["ملحمي", "أكشن", "حزين", "دراما", "عاطفي"],
+    "genre": "أكشن، فانتازيا، دراما",
+    "episodes": "موسم 1-3 + فيلم",
+    "reason": "رسم خيالي، معارك أسطورية، وأخوة مؤثرة.",
+    "trailer": "https://www.youtube.com/watch?v=p7JwZVdrc4E"
+  },
+  {
+    "title": "Jujutsu Kaisen",
+    "mood": ["أكشن", "داكن", "قوي", "مظلم"],
+    "genre": "أكشن، خارق، مظلم",
+    "episodes": "موسم 1-2",
+    "reason": "معارك شرسة، عوالم مظلمة، وشخصيات لا تُنسى.",
+    "trailer": "https://www.youtube.com/watch?v=Owk0eYlMzCk"
+  },
+  {
+    "title": "One Piece",
+    "mood": ["مغامرة", "مرح", "أكشن", "ملحمي", "عاطفي"],
+    "genre": "مغامرة، أكشن، كوميدي، دراما",
+    "episodes": "1000+",
+    "reason": "رحلة طويلة مليئة بالعاطفة والمغامرة والضحك.",
+    "trailer": "https://www.youtube.com/watch?v=2mM9xV8-TtE"
+  },
+  {
+    "title": "Naruto",
+    "mood": ["نضال", "عاطفي", "أكشن", "تدريبي"],
+    "genre": "أكشن، مغامرة، دراما",
+    "episodes": "720",
+    "reason": "قصة كفاح من العدم إلى القمة مع دروس حياتية.",
+    "trailer": "https://www.youtube.com/watch?v=7V6S4BycK4o"
+  },
+  {
+    "title": "Naruto Shippuden",
+    "mood": ["نضج", "ملحمي", "حزين", "مأساوي"],
+    "genre": "أكشن، دراما، حرب",
+    "episodes": "500",
+    "reason": "رحلة النضج والمواجهات الأسطورية والمشاهد المؤثرة.",
+    "trailer": "https://www.youtube.com/watch?v=5gIBJgRz7Pk"
+  },
+  {
+    "title": "Boruto",
+    "mood": ["مغامرة", "قوة", "عائلي"],
+    "genre": "أكشن، مغامرة، فانتازيا",
+    "episodes": "300+",
+    "reason": "الجيل الجديد مع تحديات العصر الحديث.",
+    "trailer": "https://www.youtube.com/watch?v=3Fm7-L6C0Y0"
+  },
+  {
+    "title": "Bleach",
+    "mood": ["أكشن", "أسطوري", "مظلم", "قوي"],
+    "genre": "أكشن، خارق، مغامرة",
+    "episodes": "366",
+    "reason": "معارك بين الشينجامي والهولو، مع تصاعد الأحداث.",
+    "trailer": "https://www.youtube.com/watch?v=PjTtdsH3JcA"
+  },
+  {
+    "title": "Bleach: Thousand-Year Blood War",
+    "mood": ["ملحمي", "أكشن", "مأساوي", "نفسي"],
+    "genre": "أكشن، فانتازيا، حرب",
+    "episodes": "موسم 1-2",
+    "reason": "الجزء الأخير من Bleach بحرب دموية وقوية.",
+    "trailer": "https://www.youtube.com/watch?v=hF_Dzh4N9_0"
+  },
+  {
+    "title": "Death Note",
+    "mood": ["نفسي", "مظلم", "تشويق", "غامض"],
+    "genre": "نفسي، تشويق، غموض",
+    "episodes": "37",
+    "reason": "صراع العقول بين لايت و L في قصة ذكية جداً.",
+    "trailer": "https://www.youtube.com/watch?v=2_XE8o7J6Tg"
+  },
+  {
+    "title": "Fullmetal Alchemist: Brotherhood",
+    "mood": ["ملحمي", "نفسي", "عاطفي", "أكشن"],
+    "genre": "أكشن، مغامرة، دراما، فانتازيا",
+    "episodes": "64",
+    "reason": "قصة متكاملة مع نهاية مثالية وتطور عاطفي.",
+    "trailer": "https://www.youtube.com/watch?v=u05CW7Y_4VU"
+  },
+  {
+    "title": "Steins;Gate",
+    "mood": ["نفسي", "تشويق", "دراما", "خيال علمي"],
+    "genre": "خيال علمي، نفسي، تشويق",
+    "episodes": "24",
+    "reason": "رحلة الزمن والتغيرات المؤثرة في الواقع.",
+    "trailer": "https://www.youtube.com/watch?v=uMYhjVVG1m4"
+  },
+  {
+    "title": "Code Geass",
+    "mood": ["استراتيجي", "مأساوي", "نفسي", "أكشن"],
+    "genre": "أكشن، استراتيجي، مأساوي",
+    "episodes": "50",
+    "reason": "ذكاء خارق ونهاية أسطورية لا تُنسى.",
+    "trailer": "https://www.youtube.com/watch?v=wOLYrZkqFEo"
+  },
+  {
+    "title": "Hunter x Hunter",
+    "mood": ["مغامرة", "قوي", "عاطفي", "دراما"],
+    "genre": "مغامرة، أكشن، فانتازيا",
+    "episodes": "148",
+    "reason": "أكثر أنمي عمق في نظام القتال والشخصيات.",
+    "trailer": "https://www.youtube.com/watch?v=d6kBeJjTGnY"
+  },
+  {
+    "title": "My Hero Academia",
+    "mood": ["بطولي", "ملهم", "أكشن", "عاطفي"],
+    "genre": "أكشن، بطولي، دراما",
+    "episodes": "موسم 1-6",
+    "reason": "صبي يحلم بأن يصبح بطل، مع تحديات وأعداء أقوياء.",
+    "trailer": "https://www.youtube.com/watch?v=w4hP2nDOHIQ"
+  },
+  {
+    "title": "Sword Art Online",
+    "mood": ["خيال علمي", "مغامرة", "أكشن", "عاطفي"],
+    "genre": "خيال علمي، مغامرة، أكشن",
+    "episodes": "موسم 1-3",
+    "reason": "العالم الافتراضي يصبح حقيقة مع بطولات وصراعات.",
+    "trailer": "https://www.youtube.com/watch?v=6ohYYtxfDCg"
+  },
+  {
+    "title": "Tokyo Revengers",
+    "mood": ["عصابات", "أكشن", "حزين", "دراما", "زمن"],
+    "genre": "أكشن، دراما، خيال علمي",
+    "episodes": "موسم 1-2",
+    "reason": "السفر عبر الزمن لتغيير الماضي وإنقاذ الأصدقاء.",
+    "trailer": "https://www.youtube.com/watch?v=o6Kb7O5fX5c"
+  },
+  {
+    "title": "Chainsaw Man",
+    "mood": ["مظلم", "أكشن", "فوضوي", "دموي"],
+    "genre": "أكشن، مظلم، فانتازيا، دموي",
+    "episodes": "موسم 1",
+    "reason": "وحشية ودراما مع شخصيات غير تقليدية.",
+    "trailer": "https://www.youtube.com/watch?v=WnJHIDfmDeo"
+  },
+  {
+    "title": "Spy x Family",
+    "mood": ["كوميدي", "عائلي", "خفيف", "دراما"],
+    "genre": "كوميدي، أكشن، عائلي",
+    "episodes": "موسم 1-2",
+    "reason": "عائلة مزيفة بجو من الفوضى والضحك والحب.",
+    "trailer": "https://www.youtube.com/watch?v=9A2N0b1b6zE"
+  },
+  {
+    "title": "Vinland Saga",
+    "mood": ["ملحمي", "حربي", "مأساوي", "نفسي"],
+    "genre": "أكشن، دراما، تاريخي، حربي",
+    "episodes": "موسم 1-2",
+    "reason": "قصة انتقام ونضال في عصر الفايكنغ، عاطفية جداً.",
+    "trailer": "https://www.youtube.com/watch?v=f8jx8gGvL1Y"
+  },
+  {
+    "title": "Berserk",
+    "mood": ["مظلم", "مأساوي", "دموي", "نفسي"],
+    "genre": "أكشن، مظلم، فانتازيا، مأساوي",
+    "episodes": "25",
+    "reason": "قصة جاتس في عالم مليء بالظلم والوحشية.",
+    "trailer": "https://www.youtube.com/watch?v=5oXa5vXKm_Y"
+  },
+  {
+    "title": "Mob Psycho 100",
+    "mood": ["كوميدي", "فلسفي", "خارق", "عاطفي"],
+    "genre": "كوميدي، خارق، دراما، فلسفي",
+    "episodes": "موسم 1-3",
+    "reason": "قدرات خارقة مع رسالة عن المشاعر الإنسانية.",
+    "trailer": "https://www.youtube.com/watch?v=XyGZ5wZqRw0"
+  },
+  {
+    "title": "One Punch Man",
+    "mood": ["كوميدي", "ساخر", "أكشن", "ترفيهي"],
+    "genre": "كوميدي، أكشن، ساخر، خارق",
+    "episodes": "موسم 1-2",
+    "reason": "بطل بضربة واحدة، كوميديا ومواقف لا تُنسى.",
+    "trailer": "https://www.youtube.com/watch?v=QVhUKy7_ml4"
+  },
+  {
+    "title": "Parasyte",
+    "mood": ["نفسي", "مظلم", "دراما", "خيال علمي"],
+    "genre": "خيال علمي، نفسي، مظلم، دراما",
+    "episodes": "24",
+    "reason": "كائنات غريبة تغزو البشر وتغير مفهوم الإنسانية.",
+    "trailer": "https://www.youtube.com/watch?v=U8h7C4iWWbY"
+  },
+  {
+    "title": "Erased",
+    "mood": ["تشويق", "غموض", "حزين", "زمن"],
+    "genre": "تشويق، غموض، دراما، خيال علمي",
+    "episodes": "12",
+    "reason": "العودة بالزمن لمنع جريمة مع نهاية مبكية.",
+    "trailer": "https://www.youtube.com/watch?v=7wO3nJZho-o"
+  },
+  {
+    "title": "Your Lie in April",
+    "mood": ["حزين", "رومانسي", "موسيقى", "دراما"],
+    "genre": "دراما، موسيقى، رومانسي، حزين",
+    "episodes": "22",
+    "reason": "قصة حب وموسيقى تجمع بين الفرح والألم.",
+    "trailer": "https://www.youtube.com/watch?v=Hm-rK7b52JM"
+  },
+  {
+    "title": "Clannad: After Story",
+    "mood": ["حزين", "عاطفي", "دراما", "مؤثر"],
+    "genre": "دراما، رومانسي، حزين، عائلي",
+    "episodes": "24",
+    "reason": "أكثر أنمي يبكي، قصة عائلة وحب وصبر.",
+    "trailer": "https://www.youtube.com/watch?v=9yP4F1_MPOE"
+  },
+  {
+    "title": "Angel Beats!",
+    "mood": ["حزين", "دراما", "كوميدي", "موسيقى"],
+    "genre": "دراما، كوميدي، خيال، موسيقى",
+    "episodes": "13",
+    "reason": "عالم ما بعد الموت مع صراعات وجودية ومؤثرة.",
+    "trailer": "https://www.youtube.com/watch?v=0QShZLgpP2w"
+  },
+  {
+    "title": "Guilty Crown",
+    "mood": ["أكشن", "مأساوي", "خيال علمي", "دراما"],
+    "genre": "أكشن، خيال علمي، دراما، مأساوي",
+    "episodes": "22",
+    "reason": "قوة مستعارة وصراع في عالم مستقبلي محطم.",
+    "trailer": "https://www.youtube.com/watch?v=O9uOZ5IQlZg"
+  },
+  {
+    "title": "Fate/stay night: Unlimited Blade Works",
+    "mood": ["ملحمي", "أكشن", "فانتازيا", "دراما"],
+    "genre": "أكشن، فانتازيا، دراما، ملحمي",
+    "episodes": "25",
+    "reason": "معركة السبع خدمات في عالم مليء بالسحر والبطولات.",
+    "trailer": "https://www.youtube.com/watch?v=7g2ST1IJ3ac"
+  },
+  {
+    "title": "Fate/Zero",
+    "mood": ["مظلم", "مأساوي", "فلسفي", "أكشن"],
+    "genre": "أكشن، مظلم، فانتازيا، فلسفي",
+    "episodes": "25",
+    "reason": "البداية المظلمة لحرب الخدمات مع شخصيات عميقة.",
+    "trailer": "https://www.youtube.com/watch?v=YhDeCq_7e5E"
+  },
+  {
+    "title": "Re:Zero",
+    "mood": ["نفسي", "مأساوي", "خيال", "دراما"],
+    "genre": "خيال، نفسي، دراما، مأساوي",
+    "episodes": "موسم 1-2",
+    "reason": "الموت والعودة في عالم فانتازيا مع معاناة نفسية.",
+    "trailer": "https://www.youtube.com/watch?v=Y7YyPql8Ujg"
+  },
+  {
+    "title": "Konosuba",
+    "mood": ["كوميدي", "ساخر", "مغامرة", "خفيف"],
+    "genre": "كوميدي، مغامرة، فانتازيا، ساخر",
+    "episodes": "موسم 1-2",
+    "reason": "كوميديا خارقة في عالم فانتازيا مع شخصيات مجنونة.",
+    "trailer": "https://www.youtube.com/watch?v=ydMy07gplB4"
+  },
+  {
+    "title": "Overlord",
+    "mood": ["مظلم", "خيال", "أكشن", "استراتيجي"],
+    "genre": "خيال، أكشن، مظلم، استراتيجي",
+    "episodes": "موسم 1-4",
+    "reason": "بطل يصبح شريراً في عالم فانتازيا بقوة مطلقة.",
+    "trailer": "https://www.youtube.com/watch?v=dz3u4n4q90o"
+  },
+  {
+    "title": "That Time I Got Reincarnated as a Slime",
+    "mood": ["مغامرة", "كوميدي", "عاطفي", "قوي"],
+    "genre": "مغامرة، فانتازيا، كوميدي، عاطفي",
+    "episodes": "موسم 1-3",
+    "reason": "إنسان يتحول إلى وحش ويبني مملكة سلام.",
+    "trailer": "https://www.youtube.com/watch?v=Qn3kI1cUSQY"
+  },
+  {
+    "title": "The Rising of the Shield Hero",
+    "mood": ["نضال", "مأساوي", "أكشن", "دراما"],
+    "genre": "أكشن، دراما، فانتازيا، مأساوي",
+    "episodes": "موسم 1-2",
+    "reason": "بطل مكروه يكافح من أجل البقاء والانتقام.",
+    "trailer": "https://www.youtube.com/watch?v=dx9uY-3I-xI"
+  },
+  {
+    "title": "No Game No Life",
+    "mood": ["خيال", "ذكاء", "كوميدي", "استراتيجي"],
+    "genre": "خيال، كوميدي، استراتيجي، ذكاء",
+    "episodes": "12",
+    "reason": "عالم تحكمه الألعاب مع شخصيات ذكية جداً.",
+    "trailer": "https://www.youtube.com/watch?v=JhWnMDuhz7M"
+  },
+  {
+    "title": "The Devil is a Part-Timer!",
+    "mood": ["كوميدي", "خفيف", "خيال", "دراما"],
+    "genre": "كوميدي، خيال، دراما، خفيف",
+    "episodes": "موسم 1-2",
+    "reason": "الشيطان يعمل في مطعم وجبات سريعة مع كوميديا رائعة.",
+    "trailer": "https://www.youtube.com/watch?v=z0ogHlT6fIg"
+  },
+  {
+    "title": "Mushoku Tensei",
+    "mood": ["مغامرة", "نفسي", "دراما", "خيال"],
+    "genre": "مغامرة، دراما، خيال، نفسي",
+    "episodes": "موسم 1-2",
+    "reason": "حياة جديدة مع دروس عميقة عن التغيير والنضج.",
+    "trailer": "https://www.youtube.com/watch?v=4-7aJfGhQHQ"
+  },
+  {
+    "title": "The Eminence in Shadow",
+    "mood": ["كوميدي", "ساخر", "أكشن", "خيال"],
+    "genre": "كوميدي، أكشن، خيال، ساخر",
+    "episodes": "موسم 1-2",
+    "reason": "بطل يلعب دور الشرير في الظل مع كوميديا سوداء.",
+    "trailer": "https://www.youtube.com/watch?v=pHPrlQw3zT0"
+  },
+  {
+    "title": "Black Butler",
+    "mood": ["مظلم", "خيال", "غموض", "دراما"],
+    "genre": "خيال، مظلم، غموض، دراما",
+    "episodes": "25",
+    "reason": "شيطان خادم وقصة انتقام في عصر الفيكتوري.",
+    "trailer": "https://www.youtube.com/watch?v=QYYW0Hk8qB8"
+  },
+  {
+    "title": "Soul Eater",
+    "mood": ["أكشن", "خيال", "كوميدي", "فانتازيا"],
+    "genre": "أكشن، فانتازيا، كوميدي، خيال",
+    "episodes": "51",
+    "reason": "أسلحة بشرية ومعارك في مدرسة شينيجامي.",
+    "trailer": "https://www.youtube.com/watch?v=PnYqQKXqq-E"
+  },
+  {
+    "title": "Dragon Ball Z",
+    "mood": ["ملحمي", "أكشن", "قوي", "مغامرة"],
+    "genre": "أكشن، مغامرة، فانتازيا، قوي",
+    "episodes": "291",
+    "reason": "الأسطورة التي بدأت كل شيء في عالم الأنمي القتالي.",
+    "trailer": "https://www.youtube.com/watch?v=CrY5bgAVxt0"
+  },
+  {
+    "title": "Dragon Ball Super",
+    "mood": ["ملحمي", "أكشن", "قوي", "مغامرة"],
+    "genre": "أكشن، مغامرة، فانتازيا، قوي",
+    "episodes": "131",
+    "reason": "استمرار الأسطورة مع أعداء من عوالم أخرى.",
+    "trailer": "https://www.youtube.com/watch?v=3LvNsTYLrbE"
+  },
+  {
+    "title": "JoJo's Bizarre Adventure",
+    "mood": ["غرابة", "أكشن", "مغامرة", "فنية"],
+    "genre": "أكشن، مغامرة، غرابة، فنية",
+    "episodes": "5 أجزاء",
+    "reason": "أكثر أنمي غرابة وإبداعاً في القتال والشخصيات.",
+    "trailer": "https://www.youtube.com/watch?v=5BOZ7tJIFUg"
+  },
+  {
+    "title": "Cowboy Bebop",
+    "mood": ["كلاسيكي", "خيال علمي", "دراما", "موسيقى"],
+    "genre": "خيال علمي، دراما، كلاسيكي، موسيقى",
+    "episodes": "26",
+    "reason": "كلاسيكي لا يُنسى مع جاز وكون فضاء.",
+    "trailer": "https://www.youtube.com/watch?v=qoRc9UmbcW0"
+  },
+  {
+    "title": "Neon Genesis Evangelion",
+    "mood": ["نفسي", "مظلم", "خيال علمي", "فلسفي"],
+    "genre": "خيال علمي، نفسي، مظلم، فلسفي",
+    "episodes": "26",
+    "reason": "أعمق أنمي نفسي في تاريخ الأنمي.",
+    "trailer": "https://www.youtube.com/watch?v=3sQhzv4g3Ic"
+  },
+  {
+    "title": "Samurai Champloo",
+    "mood": ["مغامرة", "أكشن", "موسيقى", "كلاسيكي"],
+    "genre": "أكشن، مغامرة، موسيقى، كلاسيكي",
+    "episodes": "26",
+    "reason": "ساموراي مع هيب هوب ورحلة بحث عن السمسم.",
+    "trailer": "https://www.youtube.com/watch?v=1cLTbVJ-0fM"
+  },
+  {
+    "title": "Fairy Tail",
+    "mood": ["أكشن", "مغامرة", "صداقة", "كوميدي"],
+    "genre": "أكشن، مغامرة، كوميدي، فانتازيا",
+    "episodes": "328",
+    "reason": "قوة الصداقة والشخصيات المحبوبة في عالم سحري.",
+    "trailer": "https://www.youtube.com/watch?v=m-Kgnlq_BDs"
+  },
+  {
+    "title": "Black Clover",
+    "mood": ["أكشن", "قوي", "تدريبي", "صداقة"],
+    "genre": "أكشن، فانتازيا، دراما، قوي",
+    "episodes": "170",
+    "reason": "شاب بلا سحر يسعى ليصبح ملك السحرة.",
+    "trailer": "https://www.youtube.com/watch?v=Q7S8zm1cF0Y"
+  },
+  {
+    "title": "Fire Force",
+    "mood": ["أكشن", "خيال علمي", "دراما", "ملحمي"],
+    "genre": "أكشن، خيال علمي، دراما، فانتازيا",
+    "episodes": "موسم 1-2",
+    "reason": "فرقة إطفاء تحارب نيراناً بشرية في عالم مستقبلي.",
+    "trailer": "https://www.youtube.com/watch?v=Uj0cFS4sCvw"
+  },
+  {
+    "title": "Dr. Stone",
+    "mood": ["خيال علمي", "ذكاء", "مغامرة", "تعليمي"],
+    "genre": "خيال علمي، مغامرة، ذكاء، تعليمي",
+    "episodes": "موسم 1-3",
+    "reason": "إعادة بناء الحضارة بالعلم بعد تجمد البشرية.",
+    "trailer": "https://www.youtube.com/watch?v=DG15IhH5xOs"
+  },
+  {
+    "title": "A Silent Voice",
+    "mood": ["حزين", "دراما", "مؤثر", "مدرسة"],
+    "genre": "دراما، حزين، مدرسة، مؤثر",
+    "episodes": "فيلم",
+    "reason": "قصة عن التنمر والتسامح والتغيير المؤثر.",
+    "trailer": "https://www.youtube.com/watch?v=nNqDQizQysA"
+  },
+  {
+    "title": "Your Name",
+    "mood": ["رومانسي", "خيال", "عاطفي", "دراما"],
+    "genre": "رومانسي، خيال، دراما، عاطفي",
+    "episodes": "فيلم",
+    "reason": "تحفة فنية عن الحب والزمن والتواصل بين الأرواح.",
+    "trailer": "https://www.youtube.com/watch?v=H2btDneZvQY"
+  },
+  {
+    "title": "Weathering With You",
+    "mood": ["رومانسي", "دراما", "خيال", "عاطفي"],
+    "genre": "رومانسي، دراما، خيال، عاطفي",
+    "episodes": "فيلم",
+    "reason": "قصة حب مع تغير المناخ في عالم مليء بالمشاعر.",
+    "trailer": "https://www.youtube.com/watch?v=Q6iK6D6-8q4"
+  },
+  {
+    "title": "The Garden of Words",
+    "mood": ["دراما", "رومانسي", "مؤثر", "قصير"],
+    "genre": "دراما، رومانسي، مؤثر، قصير",
+    "episodes": "فيلم",
+    "reason": "جماليات ورقيّة مع قصة حب صامتة ومؤثرة.",
+    "trailer": "https://www.youtube.com/watch?v=0jz5b67yK3Q"
+  },
+  {
+    "title": "5 Centimeters per Second",
+    "mood": ["حزين", "دراما", "رومانسي", "واقعي"],
+    "genre": "دراما، رومانسي، حزين، واقعي",
+    "episodes": "فيلم",
+    "reason": "المسافات التي تفصل بين القلوب مع مشاهد آسرة.",
+    "trailer": "https://www.youtube.com/watch?v=3mhJxrVjL8o"
+  },
+  {
+    "title": "The Boy and the Beast",
+    "mood": ["مغامرة", "دراما", "خيال", "عاطفي"],
+    "genre": "مغامرة، دراما، خيال، عاطفي",
+    "episodes": "فيلم",
+    "reason": "رحلة صبي في عالم الوحوش مع دروس عميقة.",
+    "trailer": "https://www.youtube.com/watch?v=-wzvLSCUIso"
+  },
+  {
+    "title": "Wolf Children",
+    "mood": ["عائلي", "دراما", "مؤثر", "حزين"],
+    "genre": "عائلي، دراما، مؤثر، حزين",
+    "episodes": "فيلم",
+    "reason": "قصة أم وطفليها في عالم مليء بالتحديات.",
+    "trailer": "https://www.youtube.com/watch?v=Q9BqhFZ9Qrg"
+  },
+  {
+    "title": "The Girl Who Leapt Through Time",
+    "mood": ["خيال علمي", "دراما", "مغامرة", "رومانسي"],
+    "genre": "خيال علمي، دراما، مغامرة، رومانسي",
+    "episodes": "فيلم",
+    "reason": "السفر عبر الزمن مع دروس عن الحياة والاختيارات.",
+    "trailer": "https://www.youtube.com/watch?v=3R2itgL_qOk"
+  },
+  {
+    "title": "Summer Wars",
+    "mood": ["خيال علمي", "مغامرة", "عائلي", "أكشن"],
+    "genre": "خيال علمي، مغامرة، عائلي، أكشن",
+    "episodes": "فيلم",
+    "reason": "عالم افتراضي ومعركة لإنقاذ البشرية.",
+    "trailer": "https://www.youtube.com/watch?v=HXeP4HYR0w8"
+  },
+  {
+    "title": "Paprika",
+    "mood": ["نفسي", "خيال علمي", "غموض", "فني"],
+    "genre": "خيال علمي، نفسي، غموض، فني",
+    "episodes": "فيلم",
+    "reason": "سفر بين الأحلام والواقع بقصة معقدة.",
+    "trailer": "https://www.youtube.com/watch?v=5M5gxSrZcQ4"
+  },
+  {
+    "title": "Perfect Blue",
+    "mood": ["نفسي", "مظلم", "تشويق", "دراما"],
+    "genre": "نفسي، مظلم، تشويق، دراما",
+    "episodes": "فيلم",
+    "reason": "انهيار نفسي في عالم الشهرة والوهم.",
+    "trailer": "https://www.youtube.com/watch?v=0M_15C9z5tI"
+  },
+  {
+    "title": "Millennium Actress",
+    "mood": ["دراما", "خيال", "تاريخي", "عاطفي"],
+    "genre": "دراما، خيال، تاريخي، عاطفي",
+    "episodes": "فيلم",
+    "reason": "رحلة ممثلة عبر الزمن في قالب فني مبتكر.",
+    "trailer": "https://www.youtube.com/watch?v=VRcoH2oH8uY"
+  },
+  {
+    "title": "Tokyo Godfathers",
+    "mood": ["دراما", "كوميدي", "مؤثر", "عائلي"],
+    "genre": "دراما، كوميدي، مؤثر، عائلي",
+    "episodes": "فيلم",
+    "reason": "ثلاثة مشردين يجدون طفلة ويتغيرون.",
+    "trailer": "https://www.youtube.com/watch?v=9YQwvXitNpY"
+  },
+  {
+    "title": "The Wind Rises",
+    "mood": ["دراما", "تاريخي", "رومانسي", "مؤثر"],
+    "genre": "دراما، تاريخي، رومانسي، مؤثر",
+    "episodes": "فيلم",
+    "reason": "قصة مصمم الطائرات مع حب وألم العصر.",
+    "trailer": "https://www.youtube.com/watch?v=5rX2D_rOzLQ"
+  },
+  {
+    "title": "Grave of the Fireflies",
+    "mood": ["مأساوي", "حزين", "دراما", "حربي"],
+    "genre": "دراما، حزين، حربي، مأساوي",
+    "episodes": "فيلم",
+    "reason": "أبكى فيلم أنمي عن الحرب وفقدان الأمل.",
+    "trailer": "https://www.youtube.com/watch?v=4vPeTSRd580"
+  },
+  {
+    "title": "Spirited Away",
+    "mood": ["خيال", "مغامرة", "عائلي", "فني"],
+    "genre": "خيال، مغامرة، عائلي، فني",
+    "episodes": "فيلم",
+    "reason": "تحفة جيبلي الخالدة عن عالم الأرواح.",
+    "trailer": "https://www.youtube.com/watch?v=ByXuk9QqQkk"
+  },
+  {
+    "title": "My Neighbor Totoro",
+    "mood": ["عائلي", "خفيف", "خيال", "مغامرة"],
+    "genre": "عائلي، خيال، مغامرة، خفيف",
+    "episodes": "فيلم",
+    "reason": "رمز الطفولة والبراءة مع توتورو المحبوب.",
+    "trailer": "https://www.youtube.com/watch?v=92a7Hj0ijLs"
+  },
+  {
+    "title": "Howl's Moving Castle",
+    "mood": ["رومانسي", "خيال", "مغامرة", "فني"],
+    "genre": "رومانسي، خيال، مغامرة، فني",
+    "episodes": "فيلم",
+    "reason": "قصة حب وسحر مع قلعة متحركة.",
+    "trailer": "https://www.youtube.com/watch?v=iwROgK94zcM"
+  },
+  {
+    "title": "Princess Mononoke",
+    "mood": ["ملحمي", "خيال", "دراما", "بيئي"],
+    "genre": "خيال، دراما، ملحمي، بيئي",
+    "episodes": "فيلم",
+    "reason": "صراع الإنسان والطبيعة مع شخصيات قوية.",
+    "trailer": "https://www.youtube.com/watch?v=4OiMOHRDs14"
+  },
+  {
+    "title": "Nausicaä of the Valley of the Wind",
+    "mood": ["خيال", "مغامرة", "بيئي", "ملحمي"],
+    "genre": "خيال، مغامرة، بيئي، ملحمي",
+    "episodes": "فيلم",
+    "reason": "رؤية جيبلي الأولى عن عالم ما بعد الكارثة.",
+    "trailer": "https://www.youtube.com/watch?v=6zhLBe319OE"
+  },
+  {
+    "title": "Castle in the Sky",
+    "mood": ["مغامرة", "خيال", "عائلي", "ملحمي"],
+    "genre": "مغامرة، خيال، عائلي، ملحمي",
+    "episodes": "فيلم",
+    "reason": "جزيرة طائرة وأسرارها مع مغامرة لا تُنسى.",
+    "trailer": "https://www.youtube.com/watch?v=8y9JZqHmU4Q"
+  },
+  {
+    "title": "Kiki's Delivery Service",
+    "mood": ["عائلي", "مغامرة", "خفيف", "ساحر"],
+    "genre": "عائلي، مغامرة، خفيف، ساحر",
+    "episodes": "فيلم",
+    "reason": "ساحرة شابة تتعلم الاستقلال في مدينة جديدة.",
+    "trailer": "https://www.youtube.com/watch?v=4bG17OYs-GA"
+  },
+  {
+    "title": "Porco Rosso",
+    "mood": ["مغامرة", "كوميدي", "دراما", "كلاسيكي"],
+    "genre": "مغامرة، كوميدي، دراما، كلاسيكي",
+    "episodes": "فيلم",
+    "reason": "طيار خنزير في مغامرات هوائية ممتعة.",
+    "trailer": "https://www.youtube.com/watch?v=awEC-aYz8L4"
+  },
+  {
+    "title": "The Secret World of Arrietty",
+    "mood": ["خيال", "عائلي", "مغامرة", "خفيف"],
+    "genre": "خيال، عائلي، مغامرة، خفيف",
+    "episodes": "فيلم",
+    "reason": "عالم مصغر تحت الأرض مع لمسة جيبلي السحرية.",
+    "trailer": "https://www.youtube.com/watch?v=9CtIXZqR5uM"
+  },
+  {
+    "title": "From Up on Poppy Hill",
+    "mood": ["دراما", "رومانسي", "تاريخي", "عائلي"],
+    "genre": "دراما، رومانسي، تاريخي، عائلي",
+    "episodes": "فيلم",
+    "reason": "قصة حب في فترة ما بعد الحرب مع أجواء هادئة.",
+    "trailer": "https://www.youtube.com/watch?v=9nzD9mJXj5Y"
+  },
+  {
+    "title": "The Tale of the Princess Kaguya",
+    "mood": ["دراما", "خيال", "حزين", "فني"],
+    "genre": "دراما، خيال، حزين، فني",
+    "episodes": "فيلم",
+    "reason": "أسلوب رسم فريد مع قصة مستوحاة من الأساطير اليابانية.",
+    "trailer": "https://www.youtube.com/watch?v=W71mtWg_7Sk"
+  },
+  {
+    "title": "When Marnie Was There",
+    "mood": ["دراما", "غموض", "عائلي", "مؤثر"],
+    "genre": "دراما، غموض، عائلي، مؤثر",
+    "episodes": "فيلم",
+    "reason": "صداقة غامضة بين فتاتين مع نهاية مؤثرة.",
+    "trailer": "https://www.youtube.com/watch?v=6auAYlQeOeU"
+  },
+  {
+    "title": "The Cat Returns",
+    "mood": ["مغامرة", "خفيف", "كوميدي", "ساحر"],
+    "genre": "مغامرة، كوميدي، خفيف، ساحر",
+    "episodes": "فيلم",
+    "reason": "رحلة غريبة في مملكة القطط.",
+    "trailer": "https://www.youtube.com/watch?v=Yex5mhIDRfY"
+  },
+  {
+    "title": "Tales from Earthsea",
+    "mood": ["خيال", "مغامرة", "دراما", "ملحمي"],
+    "genre": "خيال، مغامرة، دراما، ملحمي",
+    "episodes": "فيلم",
+    "reason": "عالم سحري مستوحى من روايات أورسولا لوجوين.",
+    "trailer": "https://www.youtube.com/watch?v=8hxYx3J6RqA"
+  },
+  {
+    "title": "Pom Poko",
+    "mood": ["كوميدي", "بيئي", "خيال", "عائلي"],
+    "genre": "كوميدي، خيال، بيئي، عائلي",
+    "episodes": "فيلم",
+    "reason": "تانوكي يحاولون إنقاذ غاباتهم بطرق مضحكة.",
+    "trailer": "https://www.youtube.com/watch?v=7oK9HnV-6fk"
+  },
+  {
+    "title": "Whisper of the Heart",
+    "mood": ["رومانسي", "دراما", "مؤثر", "عائلي"],
+    "genre": "رومانسي، دراما، مؤثر، عائلي",
+    "episodes": "فيلم",
+    "reason": "قصة حب وطموح في مرحلة المراهقة.",
+    "trailer": "https://www.youtube.com/watch?v=0p2Jm1Q4k9E"
+  },
+  {
+    "title": "Ocean Waves",
+    "mood": ["دراما", "رومانسي", "واقعي", "مدرسة"],
+    "genre": "دراما، رومانسي، واقعي، مدرسة",
+    "episodes": "فيلم",
+    "reason": "قصة حب مثلثة في الثانوية بأسلوب جيبلي الكلاسيكي.",
+    "trailer": "https://www.youtube.com/watch?v=w5z8gJz5x3k"
+  },
+  {
+    "title": "Only Yesterday",
+    "mood": ["دراما", "عائلي", "واقعي", "مؤثر"],
+    "genre": "دراما، عائلي، واقعي، مؤثر",
+    "episodes": "فيلم",
+    "reason": "امرأة تسترجع طفولتها خلال رحلة إلى الريف.",
+    "trailer": "https://www.youtube.com/watch?v=6rJOKJNtQqA"
+  },
+  {
+    "title": "My Neighbors the Yamadas",
+    "mood": ["كوميدي", "عائلي", "خفيف", "واقعي"],
+    "genre": "كوميدي، عائلي، خفيف، واقعي",
+    "episodes": "فيلم",
+    "reason": "حياة عائلة يابانية عادية بطريقة كوميدية وفنية.",
+    "trailer": "https://www.youtube.com/watch?v=K8Yx9H1HrPw"
+  },
+  {
+    "title": "The Red Turtle",
+    "mood": ["دراما", "خيال", "صامت", "فني"],
+    "genre": "دراما، خيال، صامت، فني",
+    "episodes": "فيلم",
+    "reason": "فيلم صامت عن رجل وسلحفاة حمراء في جزيرة.",
+    "trailer": "https://www.youtube.com/watch?v=2Jf0ZVJhKVo"
+  },
+  {
+    "title": "Earwig and the Witch",
+    "mood": ["خيال", "مغامرة", "خفيف", "كوميدي"],
+    "genre": "خيال، مغامرة، كوميدي، خفيف",
+    "episodes": "فيلم",
+    "reason": "أول فيلم ثلاثي الأبعاد من جيبلي عن ساحرة شابة.",
+    "trailer": "https://www.youtube.com/watch?v=6K1Gn9qJ9OY"
+  },
+  {
+    "title": "The Wind Rises",
+    "mood": ["دراما", "تاريخي", "رومانسي", "مؤثر"],
+    "genre": "دراما، تاريخي، رومانسي، مؤثر",
+    "episodes": "فيلم",
+    "reason": "قصة حياة مصمم الطائرات مع مشاهد ساحرة.",
+    "trailer": "https://www.youtube.com/watch?v=5rX2D_rOzLQ"
+  },
+  {
+    "title": "The Boy and the Heron",
+    "mood": ["خيال", "مغامرة", "فني", "دراما"],
+    "genre": "خيال، مغامرة، دراما، فني",
+    "episodes": "فيلم",
+    "reason": "أحدث أعمال ميازاكي عن صبي وطائر غامض.",
+    "trailer": "https://www.youtube.com/watch?v=t5kYmJ6wvVw"
+  },
+  {
+    "title": "Suzume",
+    "mood": ["مغامرة", "دراما", "خيال", "مؤثر"],
+    "genre": "مغامرة، دراما، خيال، مؤثر",
+    "episodes": "فيلم",
+    "reason": "رحلة فتاة لإغلاق أبواب الزلازل في اليابان.",
+    "trailer": "https://www.youtube.com/watch?v=5Wn7T2mRVQo"
+  },
+  {
+    "title": "The Tunnel to Summer, the Exit of Goodbyes",
+    "mood": ["رومانسي", "خيال", "دراما", "حزين"],
+    "genre": "رومانسي، خيال، دراما، حزين",
+    "episodes": "فيلم",
+    "reason": "نفق يمنح الأمنيات مع قصة حب مؤثرة.",
+    "trailer": "https://www.youtube.com/watch?v=1wR0Wb9DvLs"
+  },
+  {
+    "title": "Bubble",
+    "mood": ["أكشن", "خيال علمي", "رومانسي", "دراما"],
+    "genre": "أكشن، خيال علمي، رومانسي، دراما",
+    "episodes": "فيلم",
+    "reason": "عالم تغمره الفقاعات مع قصة حب وحركة.",
+    "trailer": "https://www.youtube.com/watch?v=O8WbGYKcIjE"
+  },
+  {
+    "title": "Drifting Home",
+    "mood": ["مغامرة", "دراما", "خيال", "عاطفي"],
+    "genre": "مغامرة، دراما، خيال، عاطفي",
+    "episodes": "فيلم",
+    "reason": "أطفال ينجرفون بمنزلهم في البحر في رحلة مليئة بالمشاعر.",
+    "trailer": "https://www.youtube.com/watch?v=6Kd9U2BQkMk"
+  },
+  {
+    "title": "The Deer King",
+    "mood": ["ملحمي", "خيال", "مغامرة", "دراما"],
+    "genre": "خيال، مغامرة، دراما، ملحمي",
+    "episodes": "فيلم",
+    "reason": "قصة عن وباء غامض ومحارب يسعى للشفاء.",
+    "trailer": "https://www.youtube.com/watch?v=U7XZw0jHt84"
+  },
+  {
+    "title": "Fortune Favors Lady Nikuko",
+    "mood": ["دراما", "عائلي", "كوميدي", "مؤثر"],
+    "genre": "دراما، عائلي، كوميدي، مؤثر",
+    "episodes": "فيلم",
+    "reason": "حياة أم وابنتها في بلدة صيد مع رسوم مميزة.",
+    "trailer": "https://www.youtube.com/watch?v=4WYp4Xkxqlo"
+  },
+  {
+    "title": "Pompo: The Cinéphile",
+    "mood": ["دراما", "كوميدي", "فني", "ملهم"],
+    "genre": "دراما، كوميدي، فني، ملهم",
+    "episodes": "فيلم",
+    "reason": "قصة شغف السينما وإنتاج الأفلام بأسلوب ممتع.",
+    "trailer": "https://www.youtube.com/watch?v=ctE7HtRgKlY"
+  },
+  {
+    "title": "The House of the Lost on the Cape",
+    "mood": ["دراما", "عائلي", "مؤثر", "خيال"],
+    "genre": "دراما، عائلي، مؤثر، خيال",
+    "episodes": "فيلم",
+    "reason": "فتاة تعيش مع امرأة عجوز بعد كارثة تسونامي.",
+    "trailer": "https://www.youtube.com/watch?v=8k4CjE6w2fA"
+  },
+  {
+    "title": "Goodbye, Don Glees!",
+    "mood": ["مغامرة", "دراما", "صداقة", "مؤثر"],
+    "genre": "مغامرة، دراما، صداقة، مؤثر",
+    "episodes": "فيلم",
+    "reason": "ثلاثة أصدقاء يبحثون عن هاتف في غابة بأيسلندا.",
+    "trailer": "https://www.youtube.com/watch?v=7KxX7pZpK8k"
+  },
+  {
+    "title": "Josee, the Tiger and the Fish",
+    "mood": ["رومانسي", "دراما", "مؤثر", "حزين"],
+    "genre": "رومانسي، دراما، مؤثر، حزين",
+    "episodes": "فيلم",
+    "reason": "قصة حب بين شاب وفتاة على كرسي متحرك.",
+    "trailer": "https://www.youtube.com/watch?v=6Rs2o-7nC6Y"
+  },
+  {
+    "title": "Ride Your Wave",
+    "mood": ["رومانسي", "دراما", "خيال", "مؤثر"],
+    "genre": "رومانسي، دراما، خيال، مؤثر",
+    "episodes": "فيلم",
+    "reason": "فتاة تلتقي بروح حبيبها في الأمواج بعد وفاته.",
+    "trailer": "https://www.youtube.com/watch?v=QmXa4GvqH9Q"
+  },
+  {
+    "title": "Lu Over the Wall",
+    "mood": ["خيال", "مغامرة", "عائلي", "موسيقى"],
+    "genre": "خيال، مغامرة، عائلي، موسيقى",
+    "episodes": "فيلم",
+    "reason": "فتاة من البحر تغير حياة صبي في قرية صيد.",
+    "trailer": "https://www.youtube.com/watch?v=2XJZQz7s6Xs"
+  },
+  {
+    "title": "Penguin Highway",
+    "mood": ["خيال علمي", "مغامرة", "عائلي", "غموض"],
+    "genre": "خيال علمي، مغامرة، عائلي، غموض",
+    "episodes": "فيلم",
+    "reason": "بطاريق تظهر في مدينة صغيرة وتكشف لغزاً غريباً.",
+    "trailer": "https://www.youtube.com/watch?v=8YVcCtvXP7A"
+  },
+  {
+    "title": "Mirai",
+    "mood": ["عائلي", "خيال", "مغامرة", "مؤثر"],
+    "genre": "عائلي، خيال، مغامرة، مؤثر",
+    "episodes": "فيلم",
+    "reason": "طفل يسافر عبر الزمن لمقابلة أفراد عائلته.",
+    "trailer": "https://www.youtube.com/watch?v=2B3Y5VhVRLk"
+  },
+  {
+    "title": "The Boy and the Beast",
+    "mood": ["مغامرة", "خيال", "دراما", "عاطفي"],
+    "genre": "مغامرة، خيال، دراما، عاطفي",
+    "episodes": "فيلم",
+    "reason": "صبي يدخل عالم الوحوش ويتعلم معنى القوة.",
+    "trailer": "https://www.youtube.com/watch?v=-wzvLSCUIso"
+  },
+  {
+    "title": "Wolf Children",
+    "mood": ["عائلي", "دراما", "مؤثر", "حزين"],
+    "genre": "عائلي، دراما، مؤثر، حزين",
+    "episodes": "فيلم",
+    "reason": "أم تربي طفلين من ذئاب في عالم مليء بالتحديات.",
+    "trailer": "https://www.youtube.com/watch?v=Q9BqhFZ9Qrg"
+  },
+  {
+    "title": "The Girl Who Leapt Through Time",
+    "mood": ["خيال علمي", "دراما", "مغامرة", "رومانسي"],
+    "genre": "خيال علمي، دراما، مغامرة، رومانسي",
+    "episodes": "فيلم",
+    "reason": "فتاة تكتسب قدرة السفر عبر الزمن وتغير حياتها.",
+    "trailer": "https://www.youtube.com/watch?v=3R2itgL_qOk"
+  },
+  {
+    "title": "Summer Wars",
+    "mood": ["خيال علمي", "مغامرة", "عائلي", "أكشن"],
+    "genre": "خيال علمي، مغامرة، عائلي، أكشن",
+    "episodes": "فيلم",
+    "reason": "عالم افتراضي ومعركة لإنقاذ البشرية.",
+    "trailer": "https://www.youtube.com/watch?v=HXeP4HYR0w8"
+  },
+  {
+    "title": "The Secret World of Arrietty",
+    "mood": ["خيال", "عائلي", "مغامرة", "خفيف"],
+    "genre": "خيال، عائلي، مغامرة، خفيف",
+    "episodes": "فيلم",
+    "reason": "عالم مصغر تحت الأرض مع لمسة جيبلي السحرية.",
+    "trailer": "https://www.youtube.com/watch?v=9CtIXZqR5uM"
+  },
+  {
+    "title": "From Up on Poppy Hill",
+    "mood": ["دراما", "رومانسي", "تاريخي", "عائلي"],
+    "genre": "دراما، رومانسي، تاريخي، عائلي",
+    "episodes": "فيلم",
+    "reason": "قصة حب في فترة ما بعد الحرب مع أجواء هادئة.",
+    "trailer": "https://www.youtube.com/watch?v=9nzD9mJXj5Y"
+  },
+  {
+    "title": "The Tale of the Princess Kaguya",
+    "mood": ["دراما", "خيال", "حزين", "فني"],
+    "genre": "دراما، خيال، حزين، فني",
+    "episodes": "فيلم",
+    "reason": "أسلوب رسم فريد مع قصة مستوحاة من الأساطير اليابانية.",
+    "trailer": "https://www.youtube.com/watch?v=W71mtWg_7Sk"
+  },
+  {
+    "title": "When Marnie Was There",
+    "mood": ["دراما", "غموض", "عائلي", "مؤثر"],
+    "genre": "دراما، غموض، عائلي، مؤثر",
+    "episodes": "فيلم",
+    "reason": "صداقة غامضة بين فتاتين مع نهاية مؤثرة.",
+    "trailer": "https://www.youtube.com/watch?v=6auAYlQeOeU"
+  },
+  {
+    "title": "The Cat Returns",
+    "mood": ["مغامرة", "خفيف", "كوميدي", "ساحر"],
+    "genre": "مغامرة، كوميدي، خفيف، ساحر",
+    "episodes": "فيلم",
+    "reason": "رحلة غريبة في مملكة القطط.",
+    "trailer": "https://www.youtube.com/watch?v=Yex5mhIDRfY"
+  },
+  {
+    "title": "Tales from Earthsea",
+    "mood": ["خيال", "مغامرة", "دراما", "ملحمي"],
+    "genre": "خيال، مغامرة، دراما، ملحمي",
+    "episodes": "فيلم",
+    "reason": "عالم سحري مستوحى من روايات أورسولا لوجوين.",
+    "trailer": "https://www.youtube.com/watch?v=8hxYx3J6RqA"
+  },
+  {
+    "title": "Pom Poko",
+    "mood": ["كوميدي", "بيئي", "خيال", "عائلي"],
+    "genre": "كوميدي، خيال، بيئي، عائلي",
+    "episodes": "فيلم",
+    "reason": "تانوكي يحاولون إنقاذ غاباتهم بطرق مضحكة.",
+    "trailer": "https://www.youtube.com/watch?v=7oK9HnV-6fk"
+  },
+  {
+    "title": "Whisper of the Heart",
+    "mood": ["رومانسي", "دراما", "مؤثر", "عائلي"],
+    "genre": "رومانسي، دراما، مؤثر، عائلي",
+    "episodes": "فيلم",
+    "reason": "قصة حب وطموح في مرحلة المراهقة.",
+    "trailer": "https://www.youtube.com/watch?v=0p2Jm1Q4k9E"
+  },
+  {
+    "title": "Ocean Waves",
+    "mood": ["دراما", "رومانسي", "واقعي", "مدرسة"],
+    "genre": "دراما، رومانسي، واقعي، مدرسة",
+    "episodes": "فيلم",
+    "reason": "قصة حب مثلثة في الثانوية بأسلوب جيبلي الكلاسيكي.",
+    "trailer": "https://www.youtube.com/watch?v=w5z8gJz5x3k"
+  },
+  {
+    "title": "Only Yesterday",
+    "mood": ["دراما", "عائلي", "واقعي", "مؤثر"],
+    "genre": "دراما، عائلي، واقعي، مؤثر",
+    "episodes": "فيلم",
+    "reason": "امرأة تسترجع طفولتها خلال رحلة إلى الريف.",
+    "trailer": "https://www.youtube.com/watch?v=6rJOKJNtQqA"
+  },
+  {
+    "title": "My Neighbors the Yamadas",
+    "mood": ["كوميدي", "عائلي", "خفيف", "واقعي"],
+    "genre": "كوميدي، عائلي، خفيف، واقعي",
+    "episodes": "فيلم",
+    "reason": "حياة عائلة يابانية عادية بطريقة كوميدية وفنية.",
+    "trailer": "https://www.youtube.com/watch?v=K8Yx9H1HrPw"
+  },
+  {
+    "title": "The Red Turtle",
+    "mood": ["دراما", "خيال", "صامت", "فني"],
+    "genre": "دراما، خيال، صامت، فني",
+    "episodes": "فيلم",
+    "reason": "فيلم صامت عن رجل وسلحفاة حمراء في جزيرة.",
+    "trailer": "https://www.youtube.com/watch?v=2Jf0ZVJhKVo"
+  },
+  {
+    "title": "Earwig and the Witch",
+    "mood": ["خيال", "مغامرة", "خفيف", "كوميدي"],
+    "genre": "خيال، مغامرة، كوميدي، خفيف",
+    "episodes": "فيلم",
+    "reason": "أول فيلم ثلاثي الأبعاد من جيبلي عن ساحرة شابة.",
+    "trailer": "https://www.youtube.com/watch?v=6K1Gn9qJ9OY"
+  },
+  {
+    "title": "The Boy and the Heron",
+    "mood": ["خيال", "مغامرة", "فني", "دراما"],
+    "genre": "خيال، مغامرة، دراما، فني",
+    "episodes": "فيلم",
+    "reason": "أحدث أعمال ميازاكي عن صبي وطائر غامض.",
+    "trailer": "https://www.youtube.com/watch?v=t5kYmJ6wvVw"
+  },
+  {
+    "title": "Suzume",
+    "mood": ["مغامرة", "دراما", "خيال", "مؤثر"],
+    "genre": "مغامرة، دراما، خيال، مؤثر",
+    "episodes": "فيلم",
+    "reason": "رحلة فتاة لإغلاق أبواب الزلازل في اليابان.",
+    "trailer": "https://www.youtube.com/watch?v=5Wn7T2mRVQo"
+  },
+  {
+    "title": "The Tunnel to Summer, the Exit of Goodbyes",
+    "mood": ["رومانسي", "خيال", "دراما", "حزين"],
+    "genre": "رومانسي، خيال، دراما، حزين",
+    "episodes": "فيلم",
+    "reason": "نفق يمنح الأمنيات مع قصة حب مؤثرة.",
+    "trailer": "https://www.youtube.com/watch?v=1wR0Wb9DvLs"
+  },
+  {
+    "title": "Bubble",
+    "mood": ["أكشن", "خيال علمي", "رومانسي", "دراما"],
+    "genre": "أكشن، خيال علمي، رومانسي، دراما",
+    "episodes": "فيلم",
+    "reason": "عالم تغمره الفقاعات مع قصة حب وحركة.",
+    "trailer": "https://www.youtube.com/watch?v=O8WbGYKcIjE"
+  },
+  {
+    "title": "Drifting Home",
+    "mood": ["مغامرة", "دراما", "خيال", "عاطفي"],
+    "genre": "مغامرة، دراما، خيال، عاطفي",
+    "episodes": "فيلم",
+    "reason": "أطفال ينجرفون بمنزلهم في البحر في رحلة مليئة بالمشاعر.",
+    "trailer": "https://www.youtube.com/watch?v=6Kd9U2BQkMk"
+  },
+  {
+    "title": "The Deer King",
+    "mood": ["ملحمي", "خيال", "مغامرة", "دراما"],
+    "genre": "خيال، مغامرة، دراما، ملحمي",
+    "episodes": "فيلم",
+    "reason": "قصة عن وباء غامض ومحارب يسعى للشفاء.",
+    "trailer": "https://www.youtube.com/watch?v=U7XZw0jHt84"
+  },
+  {
+    "title": "Fortune Favors Lady Nikuko",
+    "mood": ["دراما", "عائلي", "كوميدي", "مؤثر"],
+    "genre": "دراما، عائلي، كوميدي، مؤثر",
+    "episodes": "فيلم",
+    "reason": "حياة أم وابنتها في بلدة صيد مع رسوم مميزة.",
+    "trailer": "https://www.youtube.com/watch?v=4WYp4Xkxqlo"
+  },
+  {
+    "title": "Pompo: The Cinéphile",
+    "mood": ["دراما", "كوميدي", "فني", "ملهم"],
+    "genre": "دراما، كوميدي، فني، ملهم",
+    "episodes": "فيلم",
+    "reason": "قصة شغف السينما وإنتاج الأفلام بأسلوب ممتع.",
+    "trailer": "https://www.youtube.com/watch?v=ctE7HtRgKlY"
+  },
+  {
+    "title": "The House of the Lost on the Cape",
+    "mood": ["دراما", "عائلي", "مؤثر", "خيال"],
+    "genre": "دراما، عائلي، مؤثر، خيال",
+    "episodes": "فيلم",
+    "reason": "فتاة تعيش مع امرأة عجوز بعد كارثة تسونامي.",
+    "trailer": "https://www.youtube.com/watch?v=8k4CjE6w2fA"
+  },
+  {
+    "title": "Goodbye, Don Glees!",
+    "mood": ["مغامرة", "دراما", "صداقة", "مؤثر"],
+    "genre": "مغامرة، دراما، صداقة، مؤثر",
+    "episodes": "فيلم",
+    "reason": "ثلاثة أصدقاء يبحثون عن هاتف في غابة بأيسلندا.",
+    "trailer": "https://www.youtube.com/watch?v=7KxX7pZpK8k"
+  },
+  {
+    "title": "Josee, the Tiger and the Fish",
+    "mood": ["رومانسي", "دراما", "مؤثر", "حزين"],
+    "genre": "رومانسي، دراما، مؤثر، حزين",
+    "episodes": "فيلم",
+    "reason": "قصة حب بين شاب وفتاة على كرسي متحرك.",
+    "trailer": "https://www.youtube.com/watch?v=6Rs2o-7nC6Y"
+  },
+  {
+    "title": "Ride Your Wave",
+    "mood": ["رومانسي", "دراما", "خيال", "مؤثر"],
+    "genre": "رومانسي، دراما، خيال، مؤثر",
+    "episodes": "فيلم",
+    "reason": "فتاة تلتقي بروح حبيبها في الأمواج بعد وفاته.",
+    "trailer": "https://www.youtube.com/watch?v=QmXa4GvqH9Q"
+  },
+  {
+    "title": "Lu Over the Wall",
+    "mood": ["خيال", "مغامرة", "عائلي", "موسيقى"],
+    "genre": "خيال، مغامرة، عائلي، موسيقى",
+    "episodes": "فيلم",
+    "reason": "فتاة من البحر تغير حياة صبي في قرية صيد.",
+    "trailer": "https://www.youtube.com/watch?v=2XJZQz7s6Xs"
+  },
+  {
+    "title": "Penguin Highway",
+    "mood": ["خيال علمي", "مغامرة", "عائلي", "غموض"],
+    "genre": "خيال علمي، مغامرة، عائلي، غموض",
+    "episodes": "فيلم",
+    "reason": "بطاريق تظهر في مدينة صغيرة وتكشف لغزاً غريباً.",
+    "trailer": "https://www.youtube.com/watch?v=8YVcCtvXP7A"
+  },
+  {
+    "title": "Mirai",
+    "mood": ["عائلي", "خيال", "مغامرة", "مؤثر"],
+    "genre": "عائلي، خيال، مغامرة، مؤثر",
+    "episodes": "فيلم",
+    "reason": "طفل يسافر عبر الزمن لمقابلة أفراد عائلته.",
+    "trailer": "https://www.youtube.com/watch?v=2B3Y5VhVRLk"
+  }
+]
